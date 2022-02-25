@@ -1,0 +1,14 @@
+{
+    "name": "manual-package.json",
+    "version": "1.0.0",
+    "description": "",
+    "main": "",
+    "scripts": {
+      "test": "jest --passWithNoTests"
+    },
+    "author": "jiya-keshwani",
+    "license": "GNU GPL V3",
+    "dependencies": {
+      "jest": "^26.0.1"
+    }
+}
